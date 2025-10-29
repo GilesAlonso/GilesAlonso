@@ -37,7 +37,7 @@
 
 #### Portfolio Sites
 - [solvethis.qzz.io](https://solvethis.qzz.io) — Commercial bilingual landing site for automation and AI services.
-- [React portfolio (Vercel deployment & source)](https://github.com/GilesAlonso/portfolio) — React-based showcase of projects, skills, and career narrative.
+- [React portfolio (Vercel deployment & source)](https://giles.vercel.app/) — React-based showcase of projects, skills, and career narrative.
 - [IAdventures](https://gilesalonso.github.io/IAdventures) — Collection of AI experiments and tooling explorations.
 
 ### 🛠️ Skills at a glance
