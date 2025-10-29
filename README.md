@@ -22,7 +22,7 @@
 #### Nova PPI Capixaba (RemanejaSUS) · [Visit](https://sites.google.com/view/novappicapixaba/)
 - **Role:** Sole developer delivering the state-wide RemanejaSUS platform for the State Health Secretariat of Espírito Santo (SESA).
 - **Mission:** Manage the physical and financial reallocation of SUS resources across all municipalities with full transparency.
-- **Tech stack:** Google AppSheet · Google Sheets · Google Apps Script (automation, triggers, reporting).
+- **Tech stack:** Google AppSheet · Google Sheets · Google Apps Script (automation, triggers, reporting) · Looker Studio.
 - **Key features:**
   - Automated monthly cycles orchestrated with time-based triggers.
   - Real-time “Living PPI” views that keep programming data accurate and auditable.
