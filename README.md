@@ -2,9 +2,9 @@
 
 # Giles Alonso
 
-### Systems Engineer • Automation Architect • Data-Driven Problem Solver
+### Systems Engineer • Automation Architect
 
-Designing reliable automation systems, decision-support tools, and data workflows for complex organizations.
+Designing end-to-end automation systems for complex operational environments.
 
 </div>
 
@@ -14,11 +14,11 @@ Designing reliable automation systems, decision-support tools, and data workflow
 
 I design systems that simplify complex operational processes.
 
-My work combines automation, software engineering, analytics, and process design to transform bureaucratic workflows into reliable, auditable systems.
+My work combines automation, software engineering, analytics, and process design to transform complex operational workflows into reliable, auditable systems.
 
 Although my largest projects have been in Brazilian public healthcare, the principles behind them—automation, transparency, stakeholder alignment, and operational efficiency—apply to any organization managing complex processes.
 
-## 🚀 Featured Project
+## 🚀 Case Study
 
 ### [Nova PPI Capixaba (RemanejaSUS)](https://sites.google.com/view/novappicapixaba/)
 
@@ -30,7 +30,7 @@ Monthly statewide healthcare resource allocation required extensive manual coord
 
 Designed and implemented the complete RemanejaSUS platform, automating data collection, validation, negotiation workflows, reporting, and monthly allocation cycles.
 
-**Technologies**
+**Stack**
 
 Google Apps Script • AppSheet • Google Sheets • Looker Studio
 
@@ -51,7 +51,7 @@ Reliable SIGTAP reference platform designed to keep Brazilian healthcare procedu
 Support clinicians, analysts, and administrators with fast, reliable procedural information.
 
 ## 🌐 Other Projects
-- [solvethis.qzz.io](https://solvethis.qzz.io) — Commercial bilingual landing site for automation and AI services.
+- [solvethis.qzz.io](https://solvethis.qzz.io) — Commercial website for automation, software, and systems consulting.
 - [React portfolio (Vercel deployment & source)](https://giles.vercel.app/) — React-based showcase of projects, skills, and career narrative.
 - [IAdventures](https://gilesalonso.github.io/IAdventures) — Collection of AI experiments and tooling explorations.
 
@@ -99,41 +99,39 @@ Google Workspace
 
 ---
 
-### AI
+### Intelligent Automation
 
-ChatGPT
+LLM Workflow Design
 
-Claude
+AI-assisted Process Automation
 
-Google AI Studio
+Prompt Engineering
 
-Qwen
-
-Perplexity
-
-LLM-assisted workflows
+AI Evaluation & Integration
 
 ---
 
-### Process Design
+### Engineering Practices
 
-Workflow Automation
-
-Stakeholder Management
+Workflow Design
 
 Process Mapping
+
+Stakeholder Alignment
+
+Continuous Improvement
+
+Kanban
 
 RACI
 
 PDCA
 
-Kanban
-
 ### 🎯 Current focus
 
 - Scaling statewide automation platforms.
 - Expanding Python and SQL pipelines for analytics.
-- Building practical AI-assisted workflows for operational decision support.
+- Building intelligent automation for operational decision support.
 
 ### 🤝 Let's connect
 
@@ -144,4 +142,7 @@ Kanban
 ## 💡 Engineering Philosophy
 
 I believe good systems disappear into the background.
+
 The best automation isn't the most sophisticated—it's the one people stop noticing because work simply gets done.
+
+I value simplicity, maintainability, and transparency over unnecessary complexity.
